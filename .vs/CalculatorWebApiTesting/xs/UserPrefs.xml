@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{612A178E-A62B-4294-BBA0-606B937EFCA3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorTest/CalculatorTests.cs">
+    <Files>
+      <File FileName="CalculatorLogic/Calculator.cs" />
+      <File FileName="CalculatorWebApiTesting/Program.cs" />
+      <File FileName="CalculatorTest/CalculatorTests.cs" Line="1" Column="25" />
+      <File FileName="CalculatorWebApiTesting/Controllers/CalculatorController.cs" />
+      <File FileName="CalculatorTest/Usings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalculatorWebApiTesting" expanded="True">
+            <Node name="CalculatorLogic" expanded="True" />
+            <Node name="CalculatorTest" expanded="True">
+              <Node name="CalculatorTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CalculatorWebApiTesting PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

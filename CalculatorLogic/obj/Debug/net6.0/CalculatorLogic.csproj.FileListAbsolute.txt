@@ -1,0 +1,24 @@
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.deps.json
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.dll
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.pdb
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.csproj.AssemblyReference.cache
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.AssemblyInfoInputs.cache
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.AssemblyInfo.cs
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.csproj.CoreCompileInputs.cache
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.dll
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/obj/Debug/net6.0/refint/CalculatorLogic.dll
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.pdb
+C:/Users/kevin/source/repos/CalculatorWebApiTesting/CalculatorLogic/obj/Debug/net6.0/ref/CalculatorLogic.dll
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.deps.json
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.dll
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/bin/Debug/net6.0/CalculatorLogic.pdb
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.csproj.AssemblyReference.cache
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.AssemblyInfoInputs.cache
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.AssemblyInfo.cs
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.csproj.CoreCompileInputs.cache
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.dll
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/obj/Debug/net6.0/refint/CalculatorLogic.dll
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/obj/Debug/net6.0/CalculatorLogic.pdb
+/Users/meghnaaravind/Downloads/CalculatorWebApiTesting 3/CalculatorLogic/obj/Debug/net6.0/ref/CalculatorLogic.dll
